@@ -3,7 +3,6 @@ import os
 
 import mlflow
 from mlflow.models import infer_signature
-from src.experiment_utils import log_model_to_mlflow
 
 
 # Configure logging
